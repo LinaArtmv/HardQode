@@ -10,13 +10,16 @@
 
 Клонировать репозиторий и перейти в него в командной строке:
 
-``` git@github.com:LinaArtmv/HardQode.git ``` 
+``` git@github.com:LinaArtmv/HardQode.git ```
+
 ``` cd HardQode ``` 
 
 Создать и активировать виртуальное окружение:
 
 ``` python3 -m venv venv ``` 
-``` source venv/bin/activate ```     
+
+``` source venv/bin/activate ```
+
 ``` python3 -m pip install --upgrade pip ``` 
 
 Установить зависимости из файла requirements:
